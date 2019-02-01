@@ -8677,7 +8677,7 @@ a, a:link, a:visited {
     background: #000000;
 }
 
-p-flexpane_header p-threads_flexpane__header {
+.p-flexpane_header .p-threads_flexpane__header {
     background: #000000;
 }
 
